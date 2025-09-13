@@ -1,4 +1,4 @@
-# 🐾 adoptme.com – Pet Adoption Website (Dummy Project)
+# 🐾 adoptme.com – Pet Adoption Website 
 
 This is a **dummy pet adoption website** created for practice and learning purposes.  
 It is fully responsive and designed with **HTML5 + CSS3**, including animations, transitions, and a mobile-friendly **hamburger menu**.
@@ -11,7 +11,7 @@ It is fully responsive and designed with **HTML5 + CSS3**, including animations,
 - Contact form
 - Footer with back-to-top link
 - Smooth transitions & hover effects
-- Mobile navigation (hamburger menu)
+- Mobile navigation 
 
 ## 🚀 Demo
 Hosted on **Vercel**  
